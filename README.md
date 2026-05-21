@@ -59,7 +59,7 @@ The project is organized into packages representing various game elements:
 
 1. Clone this repository to your local machine by running following command in terminal:
    ```bash
-   git clone https://github.com/devan191/AngryBirds-AP.git
+   git clone https://github.com/triptikashyap19/AngryBirds.git
 2. Or if you already have .zip file , unzip it and navigate to it in the terminal.
    Specifically navigate to directory : AngryBirds-AP
 
